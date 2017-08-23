@@ -1,2 +1,0 @@
-# angularHeroes
-simple Angular app
